@@ -1,0 +1,198 @@
+{
+  "nina rao|northwindupholstery.com": {
+    "name": "Nina Rao",
+    "domain": "northwindupholstery.com",
+    "email": "nina@northwindupholstery.com",
+    "verified": true,
+    "provider": "findymail"
+  },
+  "owen lindqvist|northwindupholstery.com": {
+    "name": "Owen Lindqvist",
+    "domain": "northwindupholstery.com",
+    "email": "owen@northwindupholstery.com",
+    "verified": true,
+    "provider": "datagma"
+  },
+  "bob reyes|cedarlineseating.com": {
+    "name": "Bob Reyes",
+    "domain": "cedarlineseating.com",
+    "email": "bob@cedarlineseating.com",
+    "verified": true,
+    "provider": "prospeo"
+  },
+  "owen smith|cedarlineseating.com": {
+    "name": "Owen Smith",
+    "domain": "cedarlineseating.com",
+    "email": "owen@cedarlineseating.com",
+    "verified": true,
+    "provider": "prospeo"
+  },
+  "derek reyes|bayviewsofaworks.com": {
+    "name": "Derek Reyes",
+    "domain": "bayviewsofaworks.com",
+    "email": "derek@bayviewsofaworks.com",
+    "verified": true,
+    "provider": "prospeo"
+  },
+  "tomas kowalski|bayviewsofaworks.com": {
+    "name": "Tomas Kowalski",
+    "domain": "bayviewsofaworks.com",
+    "email": "tomas@bayviewsofaworks.com",
+    "verified": true,
+    "provider": "prospeo"
+  },
+  "tomas duval|ironwoodfurnitureco.com": {
+    "name": "Tomas Duval",
+    "domain": "ironwoodfurnitureco.com",
+    "email": "tomas@ironwoodfurnitureco.com",
+    "verified": true,
+    "provider": "datagma"
+  },
+  "priya okafor|ironwoodfurnitureco.com": {
+    "name": "Priya Okafor",
+    "domain": "ironwoodfurnitureco.com",
+    "email": "priya@ironwoodfurnitureco.com",
+    "verified": true,
+    "provider": "prospeo"
+  },
+  "tomas kowalski|prairiecasegoods.com": {
+    "name": "Tomas Kowalski",
+    "domain": "prairiecasegoods.com",
+    "email": "tomas@prairiecasegoods.com",
+    "verified": true,
+    "provider": "prospeo"
+  },
+  "nina haddad|prairiecasegoods.com": {
+    "name": "Nina Haddad",
+    "domain": "prairiecasegoods.com",
+    "email": "nina@prairiecasegoods.com",
+    "verified": true,
+    "provider": "prospeo"
+  },
+  "priya kowalski|lakeshoreupholstered.com": {
+    "name": "Priya Kowalski",
+    "domain": "lakeshoreupholstered.com",
+    "email": "priya@lakeshoreupholstered.com",
+    "verified": true,
+    "provider": "findymail"
+  },
+  "jane chen|lakeshoreupholstered.com": {
+    "name": "Jane Chen",
+    "domain": "lakeshoreupholstered.com",
+    "email": "jane@lakeshoreupholstered.com",
+    "verified": true,
+    "provider": "findymail"
+  },
+  "tomas berg|mapleridgemanufacturin.com": {
+    "name": "Tomas Berg",
+    "domain": "mapleridgemanufacturin.com",
+    "email": "tomas@mapleridgemanufacturin.com",
+    "verified": true,
+    "provider": "findymail"
+  },
+  "bob duval|stclairseating.com": {
+    "name": "Bob Duval",
+    "domain": "stclairseating.com",
+    "email": "bob@stclairseating.com",
+    "verified": true,
+    "provider": "findymail"
+  },
+  "jane duval|fundyfurnitureworks.com": {
+    "name": "Jane Duval",
+    "domain": "fundyfurnitureworks.com",
+    "email": "jane@fundyfurnitureworks.com",
+    "verified": true,
+    "provider": "prospeo"
+  },
+  "elena haddad|granitebayupholstery.com": {
+    "name": "Elena Haddad",
+    "domain": "granitebayupholstery.com",
+    "email": "elena@granitebayupholstery.com",
+    "verified": true,
+    "provider": "findymail"
+  },
+  "jane kowalski|granitebayupholstery.com": {
+    "name": "Jane Kowalski",
+    "domain": "granitebayupholstery.com",
+    "email": "jane@granitebayupholstery.com",
+    "verified": true,
+    "provider": "findymail"
+  },
+  "jane okafor|auroracontractseating.com": {
+    "name": "Jane Okafor",
+    "domain": "auroracontractseating.com",
+    "email": "jane@auroracontractseating.com",
+    "verified": true,
+    "provider": "prospeo"
+  },
+  "priya okafor|auroracontractseating.com": {
+    "name": "Priya Okafor",
+    "domain": "auroracontractseating.com",
+    "email": "priya@auroracontractseating.com",
+    "verified": true,
+    "provider": "datagma"
+  },
+  "aisha kowalski|auroracontractseating.com": {
+    "name": "Aisha Kowalski",
+    "domain": "auroracontractseating.com",
+    "email": "aisha@auroracontractseating.com",
+    "verified": true,
+    "provider": "datagma"
+  },
+  "derek haddad|riverbendwoodcraft.com": {
+    "name": "Derek Haddad",
+    "domain": "riverbendwoodcraft.com",
+    "email": "derek@riverbendwoodcraft.com",
+    "verified": true,
+    "provider": "prospeo"
+  },
+  "elena rao|riverbendwoodcraft.com": {
+    "name": "Elena Rao",
+    "domain": "riverbendwoodcraft.com",
+    "email": "elena@riverbendwoodcraft.com",
+    "verified": true,
+    "provider": "findymail"
+  },
+  "priya okafor|cypresstradingco.com": {
+    "name": "Priya Okafor",
+    "domain": "cypresstradingco.com",
+    "email": "priya@cypresstradingco.com",
+    "verified": true,
+    "provider": "findymail"
+  },
+  "jane kowalski|cypresstradingco.com": {
+    "name": "Jane Kowalski",
+    "domain": "cypresstradingco.com",
+    "email": "jane@cypresstradingco.com",
+    "verified": true,
+    "provider": "prospeo"
+  },
+  "elena duval|delacroixsons.com": {
+    "name": "Elena Duval",
+    "domain": "delacroixsons.com",
+    "email": "elena@delacroixsons.com",
+    "verified": true,
+    "provider": "prospeo"
+  },
+  "priya haddad|delacroixsons.com": {
+    "name": "Priya Haddad",
+    "domain": "delacroixsons.com",
+    "email": "priya@delacroixsons.com",
+    "verified": true,
+    "provider": "datagma"
+  },
+  "owen lindqvist|willowcraftstudio.com": {
+    "name": "Owen Lindqvist",
+    "domain": "willowcraftstudio.com",
+    "email": "owen@willowcraftstudio.com",
+    "verified": true,
+    "provider": "prospeo"
+  },
+  "priya reyes|willowcraftstudio.com": {
+    "name": "Priya Reyes",
+    "domain": "willowcraftstudio.com",
+    "email": "priya@willowcraftstudio.com",
+    "verified": true,
+    "provider": "prospeo"
+  }
+}

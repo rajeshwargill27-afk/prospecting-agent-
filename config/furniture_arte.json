@@ -1,0 +1,93 @@
+{
+  "client": "Furniture Arte",
+  "version": "1.0",
+
+  "apollo_company_search": {
+    "organization_locations": ["Canada", "United States"],
+    "organization_num_employees_ranges": ["11,500"],
+    "q_organization_keyword_tags": ["furniture", "upholstered furniture", "sofa manufacturer"],
+    "per_page": 100
+  },
+
+  "apollo_people_search": {
+    "person_titles": [
+      "Owner",
+      "CEO",
+      "Chief Executive Officer",
+      "Procurement Manager",
+      "Operations Director",
+      "Sourcing Manager"
+    ],
+    "per_page": 100
+  },
+
+  "disqualify": {
+    "_comment": "Phase 1.5 — free, rule-based. Kills obvious Tier 3 before any paid step.",
+    "industry_blocklist": [
+      "retail",
+      "wholesale",
+      "e-commerce",
+      "interior design",
+      "consumer services"
+    ],
+    "name_blocklist": [
+      "gallery",
+      "showroom",
+      "home store",
+      "interiors",
+      "design centre",
+      "design center",
+      "outlet",
+      "warehouse sale",
+      "consignment"
+    ],
+    "min_employees": 11,
+    "max_employees": 500,
+    "allowed_countries": ["Canada", "United States"]
+  },
+
+  "tiers": {
+    "_comment": "Phase 2 — LLM-scored from site content. Evidence-based, not guessed from firmographics.",
+    "1": {
+      "label": "Sofa / upholstered furniture manufacturer",
+      "signals": [
+        "manufactures upholstered seating (sofas, sectionals, armchairs)",
+        "owns or operates production facilities",
+        "mentions contract, wholesale, or trade programs"
+      ]
+    },
+    "2": {
+      "label": "Mixed furniture manufacturer",
+      "signals": [
+        "manufactures furniture but not primarily upholstered seating",
+        "case goods, tables, casegoods, or general furniture production"
+      ]
+    },
+    "3": {
+      "label": "Retailer / showroom / distributor — do not enroll",
+      "signals": [
+        "resells furniture made by others",
+        "operates retail locations or showrooms",
+        "no evidence of in-house manufacturing"
+      ]
+    }
+  },
+
+  "routing": {
+    "_comment": "Routing is on CONFIDENCE, not tier. Uncertain rows go to a human regardless of tier.",
+    "enrich_tiers": [1, 2],
+    "confidence_threshold": 0.70,
+    "review_queue_path": "out/review_queue.json"
+  },
+
+  "enrichment": {
+    "_comment": "Clay is the only paid step. Cache first, never re-buy a known record.",
+    "require_verified_email": true,
+    "max_contacts_per_run": 200
+  },
+
+  "apollo_load": {
+    "label_name": "Furniture Arte — Tier 1/2",
+    "sequence_id": "SET_ME_BEFORE_LIVE_RUN"
+  }
+}

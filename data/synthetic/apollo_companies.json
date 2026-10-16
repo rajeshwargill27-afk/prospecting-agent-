@@ -1,0 +1,362 @@
+{
+  "organizations": [
+    {
+      "id": "0000000000005e66b6000001",
+      "name": "Northwind Upholstery",
+      "website_url": "http://www.northwindupholstery.com",
+      "primary_domain": "northwindupholstery.com",
+      "estimated_num_employees": 28,
+      "industry": "furniture",
+      "keywords": [
+        "furniture",
+        "sofa"
+      ],
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "country": "United States",
+      "short_description": "Manufacturer of upholstered sofas, sectionals and armchairs for the contract and wholesale trade, produced in our own facility."
+    },
+    {
+      "id": "0000000000005e66b6000002",
+      "name": "Cedarline Seating",
+      "website_url": "http://www.cedarlineseating.com",
+      "primary_domain": "cedarlineseating.com",
+      "estimated_num_employees": 260,
+      "industry": "furniture",
+      "keywords": [
+        "furniture",
+        "sofa"
+      ],
+      "city": "Montreal",
+      "state": "Quebec",
+      "country": "Canada",
+      "short_description": "Manufacturer of upholstered sofas, sectionals and armchairs for the contract and wholesale trade, produced in our own facility."
+    },
+    {
+      "id": "0000000000005e66b6000003",
+      "name": "Bayview Sofa Works",
+      "website_url": "http://www.bayviewsofaworks.com",
+      "primary_domain": "bayviewsofaworks.com",
+      "estimated_num_employees": 14,
+      "industry": "furniture",
+      "keywords": [
+        "furniture",
+        "sofa"
+      ],
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "short_description": "Manufacturer of upholstered sofas, sectionals and armchairs for the contract and wholesale trade, produced in our own facility."
+    },
+    {
+      "id": "0000000000005e66b6000004",
+      "name": "Ironwood Furniture Co",
+      "website_url": "http://www.ironwoodfurnitureco.com",
+      "primary_domain": "ironwoodfurnitureco.com",
+      "estimated_num_employees": 14,
+      "industry": "furniture",
+      "keywords": [
+        "furniture",
+        "mixed"
+      ],
+      "city": "High Point",
+      "state": "North Carolina",
+      "country": "United States",
+      "short_description": "Furniture manufacturer producing case goods, tables and storage for residential and commercial clients."
+    },
+    {
+      "id": "0000000000005e66b6000005",
+      "name": "Prairie Case Goods",
+      "website_url": "http://www.prairiecasegoods.com",
+      "primary_domain": "prairiecasegoods.com",
+      "estimated_num_employees": 130,
+      "industry": "furniture",
+      "keywords": [
+        "furniture",
+        "mixed"
+      ],
+      "city": "Grand Rapids",
+      "state": "Michigan",
+      "country": "United States",
+      "short_description": "Furniture manufacturer producing case goods, tables and storage for residential and commercial clients."
+    },
+    {
+      "id": "0000000000005e66b6000006",
+      "name": "Lakeshore Upholstered",
+      "website_url": "http://www.lakeshoreupholstered.com",
+      "primary_domain": "lakeshoreupholstered.com",
+      "estimated_num_employees": 130,
+      "industry": "furniture",
+      "keywords": [
+        "furniture",
+        "sofa"
+      ],
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "short_description": "Manufacturer of upholstered sofas, sectionals and armchairs for the contract and wholesale trade, produced in our own facility."
+    },
+    {
+      "id": "0000000000005e66b6000007",
+      "name": "Maple Ridge Manufacturing",
+      "website_url": "http://www.mapleridgemanufacturin.com",
+      "primary_domain": "mapleridgemanufacturin.com",
+      "estimated_num_employees": 14,
+      "industry": "furniture",
+      "keywords": [
+        "furniture",
+        "mixed"
+      ],
+      "city": "Mississauga",
+      "state": "Ontario",
+      "country": "Canada",
+      "short_description": "Furniture manufacturer producing case goods, tables and storage for residential and commercial clients."
+    },
+    {
+      "id": "0000000000005e66b6000008",
+      "name": "St. Clair Seating",
+      "website_url": "http://www.stclairseating.com",
+      "primary_domain": "stclairseating.com",
+      "estimated_num_employees": 88,
+      "industry": "furniture",
+      "keywords": [
+        "furniture",
+        "sofa"
+      ],
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "short_description": "Manufacturer of upholstered sofas, sectionals and armchairs for the contract and wholesale trade, produced in our own facility."
+    },
+    {
+      "id": "0000000000005e66b6000009",
+      "name": "Fundy Furniture Works",
+      "website_url": "http://www.fundyfurnitureworks.com",
+      "primary_domain": "fundyfurnitureworks.com",
+      "estimated_num_employees": 14,
+      "industry": "furniture",
+      "keywords": [
+        "furniture",
+        "mixed"
+      ],
+      "city": "Montreal",
+      "state": "Quebec",
+      "country": "Canada",
+      "short_description": "Furniture manufacturer producing case goods, tables and storage for residential and commercial clients."
+    },
+    {
+      "id": "0000000000005e66b600000a",
+      "name": "Granite Bay Upholstery",
+      "website_url": "http://www.granitebayupholstery.com",
+      "primary_domain": "granitebayupholstery.com",
+      "estimated_num_employees": 14,
+      "industry": "furniture",
+      "keywords": [
+        "furniture",
+        "sofa"
+      ],
+      "city": "Mississauga",
+      "state": "Ontario",
+      "country": "Canada",
+      "short_description": "Manufacturer of upholstered sofas, sectionals and armchairs for the contract and wholesale trade, produced in our own facility."
+    },
+    {
+      "id": "0000000000005e66b600000b",
+      "name": "Aurora Contract Seating",
+      "website_url": "http://www.auroracontractseating.com",
+      "primary_domain": "auroracontractseating.com",
+      "estimated_num_employees": 88,
+      "industry": "furniture",
+      "keywords": [
+        "furniture",
+        "sofa"
+      ],
+      "city": "High Point",
+      "state": "North Carolina",
+      "country": "United States",
+      "short_description": "Manufacturer of upholstered sofas, sectionals and armchairs for the contract and wholesale trade, produced in our own facility."
+    },
+    {
+      "id": "0000000000005e66b600000c",
+      "name": "Riverbend Woodcraft",
+      "website_url": "http://www.riverbendwoodcraft.com",
+      "primary_domain": "riverbendwoodcraft.com",
+      "estimated_num_employees": 410,
+      "industry": "furniture",
+      "keywords": [
+        "furniture",
+        "mixed"
+      ],
+      "city": "Toronto",
+      "state": "Ontario",
+      "country": "Canada",
+      "short_description": "Furniture manufacturer producing case goods, tables and storage for residential and commercial clients."
+    },
+    {
+      "id": "0000000000005e66b600000d",
+      "name": "Halton Home Store",
+      "website_url": "http://www.haltonhomestore.com",
+      "primary_domain": "haltonhomestore.com",
+      "estimated_num_employees": 14,
+      "industry": "retail",
+      "keywords": [
+        "furniture",
+        "retail"
+      ],
+      "city": "High Point",
+      "state": "North Carolina",
+      "country": "United States",
+      "short_description": "Retail showroom offering furniture and home furnishings from leading brands."
+    },
+    {
+      "id": "0000000000005e66b600000e",
+      "name": "Kingsway Interiors",
+      "website_url": "http://www.kingswayinteriors.com",
+      "primary_domain": "kingswayinteriors.com",
+      "estimated_num_employees": 260,
+      "industry": "retail",
+      "keywords": [
+        "furniture",
+        "retail"
+      ],
+      "city": "Mississauga",
+      "state": "Ontario",
+      "country": "Canada",
+      "short_description": "Retail showroom offering furniture and home furnishings from leading brands."
+    },
+    {
+      "id": "0000000000005e66b600000f",
+      "name": "Meridian Design Centre",
+      "website_url": "http://www.meridiesigncentre.com",
+      "primary_domain": "meridiesigncentre.com",
+      "estimated_num_employees": 14,
+      "industry": "retail",
+      "keywords": [
+        "furniture",
+        "retail"
+      ],
+      "city": "High Point",
+      "state": "North Carolina",
+      "country": "United States",
+      "short_description": "Retail showroom offering furniture and home furnishings from leading brands."
+    },
+    {
+      "id": "0000000000005e66b6000010",
+      "name": "Bloor Furniture Gallery",
+      "website_url": "http://www.bloorfurnituregallery.com",
+      "primary_domain": "bloorfurnituregallery.com",
+      "estimated_num_employees": 130,
+      "industry": "retail",
+      "keywords": [
+        "furniture",
+        "retail"
+      ],
+      "city": "High Point",
+      "state": "North Carolina",
+      "country": "United States",
+      "short_description": "Retail showroom offering furniture and home furnishings from leading brands."
+    },
+    {
+      "id": "0000000000005e66b6000011",
+      "name": "Westside Outlet Furnishings",
+      "website_url": "http://www.westsideoutletfurnishi.com",
+      "primary_domain": "westsideoutletfurnishi.com",
+      "estimated_num_employees": 14,
+      "industry": "retail",
+      "keywords": [
+        "furniture",
+        "retail"
+      ],
+      "city": "Montreal",
+      "state": "Quebec",
+      "country": "Canada",
+      "short_description": "Retail showroom offering furniture and home furnishings from leading brands."
+    },
+    {
+      "id": "0000000000005e66b6000012",
+      "name": "Nordic Interiors Ltd",
+      "website_url": "http://www.nordicinteriorsltd.com",
+      "primary_domain": "nordicinteriorsltd.com",
+      "estimated_num_employees": 14,
+      "industry": "furniture",
+      "keywords": [
+        "furniture",
+        "unknown"
+      ],
+      "city": "Mississauga",
+      "state": "Ontario",
+      "country": "Canada",
+      "short_description": "Furniture company."
+    },
+    {
+      "id": "0000000000005e66b6000013",
+      "name": "Cypress Trading Co",
+      "website_url": "http://www.cypresstradingco.com",
+      "primary_domain": "cypresstradingco.com",
+      "estimated_num_employees": 410,
+      "industry": "furniture",
+      "keywords": [
+        "furniture",
+        "unknown"
+      ],
+      "city": "High Point",
+      "state": "North Carolina",
+      "country": "United States",
+      "short_description": "Furniture company."
+    },
+    {
+      "id": "0000000000005e66b6000014",
+      "name": "Delacroix & Sons",
+      "website_url": "http://www.delacroixsons.com",
+      "primary_domain": "delacroixsons.com",
+      "estimated_num_employees": 45,
+      "industry": "furniture",
+      "keywords": [
+        "furniture",
+        "unknown"
+      ],
+      "city": "Mississauga",
+      "state": "Ontario",
+      "country": "Canada",
+      "short_description": "Furniture company."
+    },
+    {
+      "id": "0000000000005e66b6000015",
+      "name": "Willow Craft Studio",
+      "website_url": "http://www.willowcraftstudio.com",
+      "primary_domain": "willowcraftstudio.com",
+      "estimated_num_employees": 4,
+      "industry": "furniture",
+      "keywords": [
+        "furniture",
+        "sofa"
+      ],
+      "city": "Montreal",
+      "state": "Quebec",
+      "country": "Canada",
+      "short_description": "Small-batch upholstery workshop."
+    },
+    {
+      "id": "0000000000005e66b6000016",
+      "name": "Kettering Sofa Ltd",
+      "website_url": "http://www.ketteringsofaltd.com",
+      "primary_domain": "ketteringsofaltd.com",
+      "estimated_num_employees": 14,
+      "industry": "furniture",
+      "keywords": [
+        "furniture",
+        "sofa"
+      ],
+      "city": "High Point",
+      "state": "North Carolina",
+      "country": "United Kingdom",
+      "short_description": "Manufacturer of upholstered seating."
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "per_page": 100,
+    "total_entries": 22,
+    "total_pages": 1
+  }
+}
